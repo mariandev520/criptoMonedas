@@ -86,7 +86,7 @@ function App() {
           />
         </div>
         <div>
-            <Heading>Cotiza Criptomonedas al Instante</Heading>
+            <Heading>Cotizador Criptomonedas al Instante</Heading>
 
             <Formulario 
               guardarMoneda={guardarMoneda}
